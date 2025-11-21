@@ -174,7 +174,7 @@ button:disabled {
   margin-bottom: 30px;
   font-size: 1.2em;
   font-weight: 700;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 #name p {
